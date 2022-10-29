@@ -1,6 +1,6 @@
 def main():
-    a = 1
-    b = 5
+    a = int(input('Enter number 1: '))
+    b = int(input('Enter number 2: '))
 
     sum = a + b
     print(sum)
